@@ -1,3 +1,6 @@
+> This experiment is part of a larger portfolio: [Surya-qc/qiskit-experiments](https://github.com/Surya-qc/qiskit-experiments)
+
+
 # Quantum Interference — Mach-Zehnder Interferometer (MZI)
 ### Qiskit simulation of quantum interference, phase control, and which-path detection
 
